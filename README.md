@@ -23,7 +23,6 @@ Sviluppo di una pipeline **ETL** e costruzione di un modello semantico in **Powe
 *Visualizzazione dell'architettura semantica del progetto.*
 
 
-![Report Power BI](Report_Power_BI_anonimizzato.pdf)
 ### 📖 Metodologia di Dominio
 Il progetto ha integrato framework specialistici internazionali per garantire rigore analitico:
 * **Menu Engineering**: Applicazione del framework di **Smith & Kasavana** per la classificazione dell'offerta (Stars, Plowhorses, Puzzles, Dogs).
